@@ -8,5 +8,6 @@ Image can be handled in python in various wayswhich are as follows:-
 6. scipy
 7. Python Magick
 8. pycairo
-9. SimpleITK
+9. SimpleITK.
+
 Use of library depends totally upon the situation and requirements of the problem statement.
